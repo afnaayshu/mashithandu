@@ -1,0 +1,5 @@
+name: "Jithin Jerome"
+avatar: "https://github.com/jithinjerome.png"
+desc: "Passionate Data Scientist"
+web: "none"
+github: "https://github.com/jithinjerome"
