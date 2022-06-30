@@ -1,0 +1,5 @@
+name: "Taniya Thomas"
+avatar: "https://github.com/TANIY-A.png"
+desc: "Computer Science and Engineering student"
+web: "Nil"
+github: "https://github.com/TANIY-A"
